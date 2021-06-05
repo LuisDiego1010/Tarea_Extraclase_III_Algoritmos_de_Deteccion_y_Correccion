@@ -13,7 +13,7 @@ int main() {
      * p = Cantidad de bits de paridad
      * n = Número de bits de información
      */
-    int bits_arr[20],n,p = 0,paridad, intmsg;    //n = no. of data bits, p = no. of redundant bits
+    int bits_arr[20],n,p = 0,paridad, intmsg;
 
     cout<<"* Introduce el número de bits de su mensaje:";
     cin >> n;
